@@ -29,7 +29,7 @@ Open-source components are software modules, libraries, frameworks, or tools wit
 
 
 
-## <h3 align="left"><font face="Arial"><span style="color:green"> Adoption and Analysis Report of Open-Source Components</span></font></h3>
+## <h3 align="left"><font face="Arial"><span style="color:green">Adoption and Analysis Report of Open-Source Components</span></font></h3>
 
 **According to the 2023 Open Source Security and Risk Analysis (OSSRA) report by Synopsys;**<br> 
 96% of all applications contain open-source components. This high adoption rate underscores the integral role of open-source software in modern development practices.
