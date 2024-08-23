@@ -13,7 +13,7 @@
 
 ## Summary
 
-[Open-Source Components](#open-source-components)
+[Open-Source Components](#what-are-open-source-components)
 
 [Adoption and Analysis Report of Open-Source Components](#adoption-and-analysis-report-of-open-source-components)
 
