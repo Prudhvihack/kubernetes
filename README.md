@@ -28,14 +28,14 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Open-Source Components </font></h1>
 
-# <h3 align="left"><font face="Arial"><span style="color:green">What are Open-Source Components?</span></font></h3>
+ <h3 align="left"><font face="Arial"><span style="color:green">What are Open-Source Components?</span></font></h3>
 
 Open-source components are software modules, libraries, frameworks, or tools with source code available for anyone to use, modify, and distribute. Developed and maintained by a community of developers, these components are typically released under open-source licenses that outline the terms and conditions for their usage and distribution.
 
 
 
 
-## <h3 align="left"><font face="Arial"><span style="color:green">Adoption and Analysis Report of Open-Source Components</span></font></h3>
+ <h3 align="left"><font face="Arial"><span style="color:green">Adoption and Analysis Report of Open-Source Components</span></font></h3>
 
 **According to the 2023 Open Source Security and Risk Analysis (OSSRA) report by Synopsys;**<br> 
 96% of all applications contain open-source components. This high adoption rate underscores the integral role of open-source software in modern development practices.
@@ -59,7 +59,7 @@ Over 2.2 trillion open-source component downloads in 2022, indicating a 33% incr
 68% of organizations actively track and manage the quality of their open-source components.
 
 
-### <h3 align="left"><font face="Arial">What Are the Advantages of Using Open-Source Components?</font></h3>
+ <h3 align="left"><font face="Arial">What Are the Advantages of Using Open-Source Components?</font></h3>
 	
 1. Cost-Effective
 No Licensing Fees: Open-source components are generally free to use, which reduces the overall cost of software development.
@@ -96,7 +96,7 @@ Shared Knowledge: Access to a wealth of shared knowledge and expertise within th
 Adherence to Standards: Many open-source projects adhere to industry standards and best practices.
 Auditability: The open nature of the code makes it easier to audit for compliance with legal and regulatory requirements.
 
-#### <h3 align="left"><font face="Arial"> What are risks associated with open-source components?</font></h3>
+ <h3 align="left"><font face="Arial"> What are risks associated with open-source components?</font></h3>
 Despite the benefits, there are risks associated with using open-source components:
 
 <h4 align="left"><font face="Arial"> 1) Security vulnerabilities:</font></h4>
@@ -176,7 +176,7 @@ g) Lack of security audits
    
    Integrating open-source components with proprietary or custom-built software can sometimes be difficult, requiring additional time and effort to ensure compatibility and seamless operation. </font></h4>
 
-##### <h3 align="left"><font face="Arial"><span style="color:green">Criteria to Evaluating Open-Source Components</span></font></h3>
+ <h3 align="left"><font face="Arial"><span style="color:green">Criteria to Evaluating Open-Source Components</span></font></h3>
 Identification of these components can be achieved through a blend of manual and automated strategies, ensuring you have a comprehensive view of the components integrated within your software. This process is critical to managing dependencies, mitigating vulnerabilities, and ensuring license compliance.
 
 Remember, the key to managing open-source components effectively is not just identifying them, but also keeping track of their versions, monitoring for vulnerabilities, and maintaining license compliance.
@@ -229,7 +229,7 @@ Remember, the key to managing open-source components effectively is not just ide
 </table>
 
 
-###### <h3 align="left"><font face="Arial"><span style="color:green">Security best practices while importing open source components</span></font></h3>
+ <h3 align="left"><font face="Arial"><span style="color:green">Security best practices while importing open source components</span></font></h3>
 <table>
 	<tr>
 		<td><h4>Reputation:</h4></td> 
